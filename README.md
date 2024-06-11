@@ -1,3 +1,2 @@
 # FGF14_project
-# FGF14-Project
-# FGF14-Project
+# in this project I am trying to find if there is correlation between band allele size prediction between 
